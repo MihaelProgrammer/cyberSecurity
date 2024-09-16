@@ -1,2 +1,2 @@
 # cyberSecurity
-Contains my laboratory code from cyber security.
+Contains my laboratory code assignments from cyber security.
